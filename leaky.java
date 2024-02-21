@@ -1,4 +1,3 @@
-package DCN_LAB;
 import java.math.*;
 import java.util.*;
 import java.io.*;
