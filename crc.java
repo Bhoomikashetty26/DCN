@@ -1,4 +1,3 @@
-package DCN_LAB;
 import java.util.*;
 public class crc{
 	public static void main(String args[]){
